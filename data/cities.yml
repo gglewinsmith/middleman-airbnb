@@ -1,0 +1,10 @@
+london:
+  name: "Le Wagon London"
+  adress: "Heyland St"
+paris:
+  name: "Le Wagon Paris"
+  adress: "Paris St"
+berlin:
+  name: "Le Wagon Berlin"
+  adress: "Berlin St"
+
